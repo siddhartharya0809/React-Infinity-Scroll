@@ -22,4 +22,4 @@
 
 ## **Links**
 
-- [Demo]
+- [Demo](https://rick-and-morty-infity-scrolling.netlify.app/)
